@@ -33,24 +33,27 @@
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="width: 100%; max-width: 700px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="width: 100%; max-width: 700px;"/>
 </p>
 
 <h4 align="left" style="font-weight: bold; color: #333;">Connect with me:</h4>
 <p align="left">
-  <a href="mailto:himanshu638684@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/himanshu638684@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:sachinsingh6386@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/sachinsingh6386@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/himanshu255" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Himanshu_Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <p align="left">
+  <a href="https://www.linkedin.com/in/sachin-singh-491252252/" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Sachin_Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Himu25" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Himanshu_Singh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/sachiinn05" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Sachin_Singh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/himanshu6386/" style="margin-right: 10px;">
+  <a href="https://leetcode.com/u/sachinsingh17/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/himanshuli0k/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <a href="https://www.naukri.com/code360/profile/c8bad018-c73a-402a-b7ec-bc4f5e6de1a6" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Coding_Ninjas-FF6D00?style=flat-square&logo=codingninjas&logoColor=white" alt="Coding Ninjas"/>
   </a>
+</p>
+
 </p>
